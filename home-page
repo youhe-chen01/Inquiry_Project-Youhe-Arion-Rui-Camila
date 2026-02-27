@@ -1,0 +1,40 @@
+<html>
+    <head>
+        <title>gardening</title>
+    </head>
+    <body>
+        <header>
+            <input type="text" placeholder="search..."/>
+            <img src="gardening.jpg" alt="gardening picture"/>
+        </header>
+        <main>
+            <ul>
+                <li>
+                    <img src="flower.jpg" alt="flower picture"/>
+                    <h2>flower planters blogs</h2>
+                    <p>My new flower garden by Garden Moxie
+                        <a href="https://www.youtube.com/watch?v=dvpooUBFkoU"Link to learn<a/>
+                    </p>
+                </li>
+                <li>
+                    <img src="fruit.jpg" alt="fruit picture"/>
+                    <h2>fruit planters blogs</h2>
+                    <p>
+
+                    </p>
+                </li>
+                <li>
+                    <img src="vegetable.jpg" alt="vegetable picture"/>
+                    <h2>vegetable planters blogs</h2>
+                    <p>
+
+                    </p>
+                </li>
+            </ul>
+        </main>
+        <footer>
+            <p>We provide gardening tools and gardening products for you</p>
+            <botton>buy now!</botton>
+        </footer>
+    </body>
+</html>
