@@ -1,1 +1,31 @@
-
+<html>
+    <head>
+        <title>Plants and How to garden</title>
+    </head>
+    <body>
+        <header>
+           <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="page2.html">Page 2</a></li>
+                <li><a href="page3.html">Page 3</a></li>
+           </ul>
+           <h1>Learn how to plant and care for vegetables, flowers, and more—even if you're a beginning gardener</h1>
+         </header>
+        <main>
+            <div class="content">
+             <img src="assets/images/plant1.jpg" alt="First plant from assets" style="width: 100%; max-width: 600px; height: auto; border-radius: 8px; margin: 20px 0;">
+             <p>The basics of gardening include providing your plants with sunlight, water, and nutritious soil—along with regular care and patience.</p>
+             <p>Start by choosing the right plants for your climate and soil type. Consider factors like sunlight, water needs, and growth habits when selecting your plants.</p>
+             <img src="assets/images/plant2.jpg" alt="Second plant from assets" style="width: 100%; max-width: 600px; height: auto; border-radius: 8px; margin: 20px 0;">
+             <p>Prepare your soil by adding compost or organic matter to improve its fertility and drainage. This will help your plants grow strong and healthy.</p>
+            </div>
+        </main>
+        <footer>
+            <h3>Photo Credits</h3>
+            <p>All photos are from Unsplash:</p>
+                <a href="https://unsplash.com/photos/photo-1604431209150-be6f37ebf149" target="_blank">Monstera plant photo</a> 
+                <a href="https://unsplash.com/photos/photo-1511621776486-a01980e01a18" target="_blank">Green plant photo</a>  
+                <a href="https://unsplash.com/photos/photo-1506744038136-46273834b3fb" target="_blank">Plant with flowers photo</a>
+        </footer>
+    </body>
+</html>
